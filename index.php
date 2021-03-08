@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pr">
 
 <head>
   <meta charset="utf-8">
@@ -86,7 +86,7 @@
     <div class="hero-container" data-aos="fade-up">
       <h1>Eduardo Barboza</h1>
       <h2>Aprendendo utilização de modelos com Bootstrap</h2>
-      <a target="_blank" href=https://api.whatsapp.com/send?phone=5511980844888&text=Meu%20Whatsapp><b> Bora 'toma' uma</b></a>
+      <a target="_blank" href=https://api.whatsapp.com/send?phone=5511980844888&text=Meu%20Whatsapp><b><h2>Bora 'toma' uma</h2></b></a>
       <a href="#about" class="btn-get-started scrollto"><i class="bx bx-chevrons-down"></i></a>
     </div>
   </section><!-- End Hero -->
