@@ -87,7 +87,7 @@
       <h1>Eduardo Barboza</h1>
       <h2>Aprendendo utilização de modelos com Bootstrap</h2>
       <a target="_blank" href=https://api.whatsapp.com/send?phone=5511980844888&text=Meu%20Whatsapp><b><h2>Bora 'toma' uma</h2></b></a>
-      <img alt="Bora 'Toma Uma" class="n3VNCb" src="https://st.depositphotos.com/1011833/3207/i/600/depositphotos_32078127-stock-photo-pouring-beer-in-glass-on.jpg" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 383px; height: 437.714px; margin: 0px;">
+      <img alt="Bora 'Toma Uma" class="n3VNCb" src="https://st.depositphotos.com/1011833/3207/i/600/depositphotos_32078127-stock-photo-pouring-beer-in-glass-on.jpg" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 192px; height: 219px; margin: 0px;">
       <a href="#about" class="btn-get-started scrollto"><i class="bx bx-chevrons-down"></i></a>
     </div>
   </section><!-- End Hero -->
