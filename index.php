@@ -86,6 +86,7 @@
     <div class="hero-container" data-aos="fade-up">
       <h1>Eduardo Barboza</h1>
       <h2>Aprendendo utilização de modelos com Bootstrap</h2>
+      <a href="https://api.whatsapp.com/send?phone=5511980844888&text=Meu%20Whatsapp"></a>
       <a href="#about" class="btn-get-started scrollto"><i class="bx bx-chevrons-down"></i></a>
     </div>
   </section><!-- End Hero -->
