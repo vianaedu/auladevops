@@ -1,0 +1,87 @@
+
+
+<!-- criando formatação estlo CSS-->
+
+
+    /* criar estilo css para comandos nativos no html5 */
+
+    p{
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: rgb(128, 0, 60);
+    }
+    body{
+        background-color: lemonchiffon;
+    }
+    h1{
+        font-size: 26px;
+        font-weight: bolder;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: rgb(44, 61, 138);
+    }
+
+    /* criar estilo css para classe */
+    .formata_texto{
+        font-size: 12px;
+        color: rgb(165, 162, 159);
+        font-family: Verdana, Geneva, Tahoma, sans-serif
+    }
+
+    .menu{
+
+        font-size: 16px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bolder;
+        color: rgb(11, 11, 77)
+    }
+
+    /* criar estilo css para os campos do formulario */
+
+    * criar estilo css para classe */
+    .campo_nome{
+        position: relative;
+        left: 15px;
+        color: red;
+        width: 250px;
+        background-color: aquamarine;
+    }
+
+    .campo_email{
+        position: relative;
+        left: 15px;
+        color: red;
+        width: 280px;
+        background-color: aquamarine;
+    }
+
+    /* criar uma classe para nome de compontes */
+    #formulario_contato{
+        background-color: bisque;
+        color: blueviolet;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bolder;
+        font-size: 12px;
+    }
+
+    /* Criando classe para a nossa pagina em BootStrap */
+
+    .container{
+        border: 3px solid brown;
+        width: 100%;
+    }
+
+    .div1{
+        background-color:yellow
+    }
+
+    .div2{
+        background-color: rgb(236, 86, 86);
+    }
+
+    .div3{
+        background-color: yellowgreen;
+    }
+
+    .div4{
+        background-color: slateblue;
+    }
